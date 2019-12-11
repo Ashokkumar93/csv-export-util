@@ -1,0 +1,37 @@
+{
+  "_from": "csv-export-util",
+  "_id": "csv-export-util@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-tfYsGV2F6Pb0p3N/TPR8zDBzYIw+2wKOs3fffOFTAHZVkMEZ6wV2BVWFRZolZHp+T7pFLT/m8UnY2fH7m811rQ==",
+  "_location": "/csv-export-util",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "csv-export-util",
+    "name": "csv-export-util",
+    "escapedName": "csv-export-util",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/csv-export-util/-/csv-export-util-1.0.3.tgz",
+  "_shasum": "3d7855d7f1dbd70728f57745720f334318b9c88a",
+  "_spec": "csv-export-util",
+  "_where": "/Users/ashokkumar/csv-export-util",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Utility to download csv file from json object",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "csv-export-util",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
